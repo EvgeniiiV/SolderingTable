@@ -1,0 +1,12 @@
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.map
+*.bak
+*.lde
+.idea/
+.vscode/
+build/
+*~
